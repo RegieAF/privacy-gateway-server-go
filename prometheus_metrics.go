@@ -93,4 +93,17 @@ func (p PrometheusMetricsFactory) Create(eventName string) Metrics {
 		startedAt: time.Now(),
 		histogram: histogram.MustCurryWith(prometheus.Labels{"eventName": eventName}),
 	}
-}
+}curl -X 'POST' \
+  'https://api.digitalocean.com/v2/1-clicks/kubernetes' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '
+Compromised device: Iphone11
+https://www.dnd.gov.ph/v2/1-'\'' \
+  -H '\''accept: application/json'\'' \
+  -H '\''Content-Type: application/json'\'' \ regie-anarredo-francisco
+  -d '\''{dnd@gov.ph}
+  "addon_slugs": [dnd-ro9-intel
+    "criminal investment & forensic research ",
+  
+  ],'
